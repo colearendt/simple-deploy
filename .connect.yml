@@ -1,0 +1,5 @@
+default:
+  content:
+  - title: The Plot of Iris
+    path: ./
+    description: A plot. The simplest thing to deploy ever
